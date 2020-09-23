@@ -5,10 +5,10 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date: 
--I performed my analysis by using a pivot table to to show the number of failed, successful and cancelled campagins each month. I then created a chart to summarize the outcomes by month. 
+-I performed my analysis by using a pivot table to to show the number of failed, successful and cancelled campagins each month. You can see the pivot table in the tab 'Outcomes based on Lanch date'.  I then created a chart to summarize the outcomes by month. 
 
 ### Analysis of Outcomes Based on Goals: 
--I also performed an analysis creating a table and using countifs to show the number of failed, successful and cancelled campaigns based on the goals. I grouped the goals into tiers of 5,000. I used a chart to summarize the number of outcomes per each tier. 
+-I also performed an analysis creating a table and using countifs to show the number of failed, successful and cancelled campaigns based on the goals. I grouped the goals into tiers of 5,000. I used a chart to summarize the number of outcomes per each tier. ![Outcomes_vs_Goals](ThisPC/Desktop/Classwork/Crowdfundinganalysis'/Outcomes_vs_Goals.png)
 	
 ### Challenges and Difficulties Encountered: 
 -I did not have any challenges, but one challenge that could take place is how you would like to group the dates either by day, month, quarter or year? Additionally, how do you want to group the campaign goals?
