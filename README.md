@@ -8,7 +8,7 @@
 -I performed my analysis by using a pivot table to to show the number of Theatre campaigns that failed, succeeded or were cancelled based on the month they launched. You can see the pivot table in the tab 'Outcomes based on Lanch date'. [Kickstarter_Challenge-Copy](/Kickstarter_Challenge-Copy.xlxs). I then created a chart to summarize the total outcomes for theatre campaigns each month. ![Theatres_Ouctomes_vs_Launch](/Resources/Theatres_Outcomes_vs_Launch.png) 
 
 ### Analysis of Outcomes Based on Goals: 
--I also performed an analysis creating a table and using countifs to show the number of plays that failed, succeeded or were cancelled based on the goal amount. I grouped the goal amounts into tiers of $5,000. I used a chart to summarize the number of plays and what their outcome was based on their goal amount. ![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png)
+-I also performed an analysis creating a table and used the countif formula to show the number of plays that failed, succeeded or were cancelled based on the goal amount. I was able show the percententage of plays that were successful, failed or cancelled for each tier of goal amounts, tiers of $5,000. I used a chart to summarize the number of plays and what their outcome was based on their goal amount. ![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png)
 	
 ### Challenges and Difficulties Encountered: 
 -I did not have any challenges, but one challenge that could take place is how you would like to group the dates either by day, month, quarter or year? Additionally, how do you want to group the campaign goals?
