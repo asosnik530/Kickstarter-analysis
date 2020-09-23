@@ -11,7 +11,7 @@
 -I also performed an analysis creating a table to show the number of plays that failed, succeeded or cancelled play campaigns based on goal amount. In the tab 'Outcomes Based on Goals' you can see the percententage of plays that were successful, failed or cancelled for each tier of goal amounts. In the chart below, you can see a summary of the number of plays that failed, succeeded or were cancelled per goal amount. ![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png)
 	
 ### Challenges and Difficulties Encountered: 
--I did not have any challenges, but one challenge that could take place is how you would like to group the dates either by day, month, quarter or year? Additionally, how do you want to group the campaign goals?
+-I did not have any challenges, but one challenge that could take place is how you would like to group the dates either by day, month, quarter or year? Additionally, how do you want to tier the campaign goals? Lastly, you may have difficulty using several Countif statements in a formula. 
 
 ## Results
 
@@ -21,4 +21,4 @@
 
 - Limitations on the datatset include that it did not provide information regarding how each kickstarted obtained their donations. Also the data does not include how much they received in donations per campagin, only the average donation and the outcome. 
 
-- Other analysis that can be perfomed include, calculating how long each goal took from date created to date ended. You could show the number of successful, cancelled and failed campagins based on length of campaign. You could also create a table providing the percentage of failed, succeeded and cancelled campagins compared to the total campaigns held each month. 
+- Other analysis that can be perfomed include, calculating how long each goal took from date created to date ended. You could show the number of successful, cancelled and failed campagins based on length of campaign. You could also create a table providing the percentage of failed, succeeded and cancelled campagins compared to the total campaigns held each month. Lastly, you could provide an analysis of the number of failed, succeeded and cancelled campagins based on year instead of month.
