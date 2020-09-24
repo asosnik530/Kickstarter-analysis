@@ -19,6 +19,6 @@
 
 - Campaigns with a goal of less than 1,000 were the most successful. Campaigns with goals between $45,000 and $49,999 had a fail rate of 100%. Based on the analysis, the lower the campaign goal the more successful the campaign. 
 
-- Limitations on the datatset include that it did not provide information regarding how each kickstarted obtained their donations. Also the data does not include how much they received in donations per campagin, only the average donation and the outcome. 
+- Limitations on the datatset include that it did not provide information regarding how each kickstarted obtained their donations. 
 
 - Other analysis that can be perfomed include, calculating how long each goal took from date created to date ended. You could show the number of successful, cancelled and failed campagins based on length of campaign. You could also create a table providing the percentage of failed, succeeded and cancelled campagins compared to the total campaigns held each month. Lastly, you could provide an analysis of the number of failed, succeeded and cancelled campagins based on year instead of month.
