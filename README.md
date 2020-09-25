@@ -5,7 +5,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date: 
--I performed my analysis by using a pivot table to to show the number of Theatre campaigns that failed, succeeded or were cancelled based on the month they launched. You can see the pivot table in the tab 'Outcomes based on Lanch date', [Kickstarter_Challenge-Copy](/Kickstarter_Challenge-Copy.zip).  I then created a chart to summarize the total outcomes for theatre campaigns each month. ![Theatres_Ouctomes_vs_Launch](/Resources/Theatres_Outcomes_vs_Launch.png) 
+-I performed my analysis by using a pivot table to to show the number of Theatre campaigns that failed, succeeded or were cancelled based on the month they launched. You can see the pivot table in the tab 'Outcomes based on Lanch date', [Kickstarter_Challenge-Copy](/Kickstarter_Challenge - Copy.zip).  I then created a chart to summarize the total outcomes for theatre campaigns each month. ![Theatres_Ouctomes_vs_Launch](/Resources/Theatres_Outcomes_vs_Launch.png) 
 
 ### Analysis of Outcomes Based on Goals: 
 -I also performed an analysis creating a table to show the number of plays that failed, succeeded or cancelled play campaigns based on goal amount. In the tab 'Outcomes Based on Goals' you can see the percententage of plays that were successful, failed or cancelled for each tier of goal amounts [Kickstarter_Challenge-Copy](/Kickstarter-analysis/Kickstarter_Challenge-Copy.xlsx). In the chart below, you can see a summary of the number of plays that failed, succeeded or were cancelled per goal amount. ![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png)
