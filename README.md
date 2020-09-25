@@ -5,10 +5,10 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date: 
--I performed my analysis by using a pivot table to to show the number of Theatre campaigns that failed, succeeded or were cancelled based on the month they launched. You can see the pivot table in the tab 'Outcomes based on Lanch date' when you download the file, [download this](/Kickstarter_Challenge - Copy.zip).  I then created a chart to summarize the total outcomes for theatre campaigns each month. ![Theatres_Ouctomes_vs_Launch](/Resources/Theatres_Outcomes_vs_Launch.png) 
+-I performed my analysis by using a pivot table to to show the number of Theatre campaigns that failed, succeeded or were cancelled based on the month they launched. You can see the pivot table in the tab 'Outcomes based on Lanch date' when you download the file, [download this](/Kickstarter_Challenge.zip).  I then created a chart to summarize the total outcomes for theatre campaigns each month. ![Theatres_Ouctomes_vs_Launch](/Resources/Theatres_Outcomes_vs_Launch.png) 
 
 ### Analysis of Outcomes Based on Goals: 
--I also performed an analysis creating a table to show the number of plays that failed, succeeded or cancelled play campaigns based on goal amount. You can see in the tab 'Outcomes Based on Goals', the percententage of plays that were successful, failed or cancelled for each tier of goal amounts when you [download this](/Kickstarter_Challenge - Copy.zip). In the chart below, you can see a summary of the number of plays that failed, succeeded or were cancelled per goal amount. ![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png)
+-I also performed an analysis creating a table to show the number of plays that failed, succeeded or cancelled play campaigns based on goal amount. You can see in the tab 'Outcomes Based on Goals', the percententage of plays that were successful, failed or cancelled for each tier of goal amounts when you [download this](/Kickstarter_Challenge.zip). In the chart below, you can see a summary of the number of plays that failed, succeeded or were cancelled per goal amount. ![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png)
 	
 ### Challenges and Difficulties Encountered: 
 -I did not have any challenges, but one challenge that could take place is how you would like to group the dates either by day, month, quarter or year? Additionally, how do you want to tier the campaign goals? Lastly, you may have difficulty using several Countif statements in a formula. 
